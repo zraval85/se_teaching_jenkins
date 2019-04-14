@@ -1,0 +1,97 @@
+Branch indexing
+[8mha:////4BNA7I4PzDrx9bJEF6lBq3NtYxOnJjUOTs9dC0SXGi3PAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSW1HyvQgBw4tYWjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+[8mha:////4INpDzHdAZvcn8BPhSi2AGXm/qFyhBX0D36vRfB/pVcjAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSW1HyvIgDKs9+PjgAAAA==[0mGitHub API Usage: Current quota has 33 remaining (1 over budget). Next quota of 60 in 29 min. Sleeping for 4 min 36 sec.
+[8mha:////4K67O0mDn/rvnxIMgcn7QkzXo+cGSTWvwnSCYooSFbcHAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSW1CLOKQCCnlExjgAAAA==[0mGitHub API Usage: Still sleeping, now only 1 min 36 sec remaining.
+[8mha:////4O3oxrop73sfRxfU0YIAiBgsoRxrZem38ezx7GgQ6MB/AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSW1OJmAQBNwyobjgAAAA==[0mGitHub API Usage: Current quota has 32 remaining (1 under budget). Next quota of 60 in 25 min
+Obtained Jenkinsfile from aea8e5a2021da251a411eca4d4b49e51cc493172
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4PQTtr4fnCv72r4W5tRKG3WKDzyHbu92g+12Ur6dONYpAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4P++4bLiKnuEXVA4A7EXoo0ja4XwINBhWzB60utUBnuHAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4FNe+IYEjbMvcIEgrUF0i5ywny4XTIv9IK3c/BcEFezrAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /var/jenkins_home/workspace/hello_printer_app_add_xml_output
+[8mha:////4OgDmTJfTU0SWyH/uaD4mMN1I9rT0Nt+ozPE0wcjMv10AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4OZNB0mURx1Oc3Q0NlJ0N6uwlDovHrTgIUr+j2+KCqc2AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4LBXspAec1HsfJC9WNOx3rETsPAg8Z5rV9jw49h/hoQdAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4LzmEE1I28ADwfp96VAenLbt5zOAkPYBw4GPDH/VVyWCAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+No credentials specified
+Cloning the remote Git repository
+Cloning with configured refspecs honoured and without tags
+Cloning repository https://github.com/zraval85/se_hello_printer_app.git
+ > git init /var/jenkins_home/workspace/hello_printer_app_add_xml_output # timeout=10
+Fetching upstream changes from https://github.com/zraval85/se_hello_printer_app.git
+ > git --version # timeout=10
+ > git fetch --no-tags --progress https://github.com/zraval85/se_hello_printer_app.git +refs/heads/add_xml_output:refs/remotes/origin/add_xml_output
+ > git config remote.origin.url https://github.com/zraval85/se_hello_printer_app.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/add_xml_output:refs/remotes/origin/add_xml_output # timeout=10
+ > git config remote.origin.url https://github.com/zraval85/se_hello_printer_app.git # timeout=10
+Fetching without tags
+Fetching upstream changes from https://github.com/zraval85/se_hello_printer_app.git
+ > git fetch --no-tags --progress https://github.com/zraval85/se_hello_printer_app.git +refs/heads/add_xml_output:refs/remotes/origin/add_xml_output
+Checking out Revision aea8e5a2021da251a411eca4d4b49e51cc493172 (add_xml_output)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f aea8e5a2021da251a411eca4d4b49e51cc493172
+Commit message: "new test"
+First time build. Skipping changelog.
+[8mha:////4K65hixyPOMsvoTm2RMJQGMKfNq6AEUJZMyBAXRkX3p+AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4CHYsr/SHu7XbNWt3PDd2A2EfWQgcaJDCkuncA0gJG08AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4D1qYBIeoNtGXc4I32dkNVgJeQjjnqmk/BSke0ZaBECPAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4AA2MVOcAsosXNb4uVzDQDVCcFONVzKgi7cqIzyB0dbqAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4KhTBFP8lapf6/TsX/A+HyPUxXZMtr0lDCjH5FugxX5RAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] stage
+[8mha:////4MeMKsc7KOEkErFWv77MtbmVPzq8o3YaK+fvBuuOs0/lAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Test)
+[8mha:////4AUp8sCkAfPq9VIjkfQdseqRHidlpi01L8axDOjSAh22AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] sh
++ make deps
+pip install -r requirements.txt; \
+pip install -r test_requirements.txt
+Requirement already satisfied: flask in /usr/local/lib/python2.7/dist-packages (from -r requirements.txt (line 1))
+Requirement already satisfied: click>=5.1 in /usr/local/lib/python2.7/dist-packages (from flask->-r requirements.txt (line 1))
+Requirement already satisfied: Werkzeug>=0.14 in /usr/local/lib/python2.7/dist-packages (from flask->-r requirements.txt (line 1))
+Requirement already satisfied: itsdangerous>=0.24 in /usr/local/lib/python2.7/dist-packages (from flask->-r requirements.txt (line 1))
+Requirement already satisfied: Jinja2>=2.10 in /usr/local/lib/python2.7/dist-packages (from flask->-r requirements.txt (line 1))
+Requirement already satisfied: MarkupSafe>=0.23 in /usr/local/lib/python2.7/dist-packages (from Jinja2>=2.10->flask->-r requirements.txt (line 1))
+Requirement already satisfied: mock in /usr/local/lib/python2.7/dist-packages (from -r test_requirements.txt (line 1))
+Requirement already satisfied: pytest in /usr/local/lib/python2.7/dist-packages (from -r test_requirements.txt (line 2))
+Requirement already satisfied: flake8 in /usr/local/lib/python2.7/dist-packages (from -r test_requirements.txt (line 3))
+Requirement already satisfied: six>=1.9 in /usr/lib/python2.7/dist-packages (from mock->-r test_requirements.txt (line 1))
+Requirement already satisfied: funcsigs>=1; python_version < "3.3" in /usr/local/lib/python2.7/dist-packages (from mock->-r test_requirements.txt (line 1))
+Requirement already satisfied: pbr>=0.11 in /usr/local/lib/python2.7/dist-packages (from mock->-r test_requirements.txt (line 1))
+Requirement already satisfied: pluggy>=0.9 in /usr/local/lib/python2.7/dist-packages (from pytest->-r test_requirements.txt (line 2))
+Requirement already satisfied: attrs>=17.4.0 in /usr/local/lib/python2.7/dist-packages (from pytest->-r test_requirements.txt (line 2))
+Requirement already satisfied: pathlib2>=2.2.0; python_version < "3.6" in /usr/local/lib/python2.7/dist-packages (from pytest->-r test_requirements.txt (line 2))
+Requirement already satisfied: setuptools in /usr/lib/python2.7/dist-packages (from pytest->-r test_requirements.txt (line 2))
+Requirement already satisfied: py>=1.5.0 in /usr/local/lib/python2.7/dist-packages (from pytest->-r test_requirements.txt (line 2))
+Requirement already satisfied: more-itertools<6.0.0,>=4.0.0; python_version <= "2.7" in /usr/local/lib/python2.7/dist-packages (from pytest->-r test_requirements.txt (line 2))
+Requirement already satisfied: atomicwrites>=1.0 in /usr/local/lib/python2.7/dist-packages (from pytest->-r test_requirements.txt (line 2))
+Requirement already satisfied: mccabe<0.7.0,>=0.6.0 in /usr/local/lib/python2.7/dist-packages (from flake8->-r test_requirements.txt (line 3))
+Requirement already satisfied: configparser; python_version < "3.2" in /usr/local/lib/python2.7/dist-packages (from flake8->-r test_requirements.txt (line 3))
+Requirement already satisfied: entrypoints<0.4.0,>=0.3.0 in /usr/local/lib/python2.7/dist-packages (from flake8->-r test_requirements.txt (line 3))
+Requirement already satisfied: functools32; python_version < "3.2" in /usr/local/lib/python2.7/dist-packages (from flake8->-r test_requirements.txt (line 3))
+Requirement already satisfied: typing; python_version < "3.5" in /usr/local/lib/python2.7/dist-packages (from flake8->-r test_requirements.txt (line 3))
+Requirement already satisfied: pyflakes<2.2.0,>=2.1.0 in /usr/local/lib/python2.7/dist-packages (from flake8->-r test_requirements.txt (line 3))
+Requirement already satisfied: enum34; python_version < "3.4" in /usr/lib/python2.7/dist-packages (from flake8->-r test_requirements.txt (line 3))
+Requirement already satisfied: pycodestyle<2.6.0,>=2.5.0 in /usr/local/lib/python2.7/dist-packages (from flake8->-r test_requirements.txt (line 3))
+Requirement already satisfied: scandir; python_version < "3.5" in /usr/local/lib/python2.7/dist-packages (from pathlib2>=2.2.0; python_version < "3.6"->pytest->-r test_requirements.txt (line 2))
+[8mha:////4KLOrVFQKhJmfeSg8oY99CNrcQkWAAzXkGyliCWfqfjYAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN0uFte2+AAAA[0m[Pipeline] sh
++ make test
+PYTHONPATH=. py.test  --verbose -s
+============================= test session starts ==============================
+platform linux2 -- Python 2.7.13, pytest-4.4.0, py-1.8.0, pluggy-0.9.0 -- /usr/bin/python
+cachedir: .pytest_cache
+rootdir: /var/jenkins_home/workspace/hello_printer_app_add_xml_output
+collecting ... collected 5 items
+
+test/test_formater.py::TestFormater::test_plain_lowercase PASSED
+test/test_formater.py::TestFormater::test_plain_uppercase PASSED
+test/test_views.py::FlaskrTestCase::test_msg_with_output json
+PASSED
+test/test_views.py::FlaskrTestCase::test_msg_with_output_xml xml
+PASSED
+test/test_views.py::FlaskrTestCase::test_outputs PASSED
+
+=========================== 5 passed in 0.15 seconds ===========================
+[8mha:////4Ocf3SVDF4Puk3TrrrATEfRRYgVN7Iublz57oQSeKoL3AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihESDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQEeFbpZvgAAAA==[0m[Pipeline] }
+[8mha:////4KHDbHWshvyyMXN2wLcMN0p2gNDTmpLZbWC2Z8YK917CAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7Ny324eW+AAAA[0m[Pipeline] // stage
+[8mha:////4JA9zNd0Dn5iehntV5+mP1Q0WxtClUw4kbAPCYMc3b2aAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiabibGyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPY+Qd3uP9W+AUIVvo2+AAAA[0m[Pipeline] }
+[8mha:////4CFeClk/Xhtca7CvX42iBB88xSgDAn0utmwkbkntudIdAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICJUJUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFkKHf7T23fcfblMb4AAAA=[0m[Pipeline] // withEnv
+[8mha:////4OMLFx/ato2JLV5y0e/KCMUBRi2oSYqND/MN1k3+xVapAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBiA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8BK1nRVL0AAAA=[0m[Pipeline] }
+[8mha:////4Gv24b9D0GD2GLlYm54roJvWUTxsn8dLVMlC2XfZolwEAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRUCIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny3VaQ7T845dX3vQAAAA==[0m[Pipeline] // node
+[8mha:////4DyBkjLETZAHX4Qc8kEnadx3G+KjQ6Srw7jbbTC2gspMAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkrMbJtWHxCyrUWmjeg/YhTH6Rv+Y/SCRx8k73nOW83timiBNHp1pLnadUe9WH0S1PTRy7W+BJtXxVNVPiYFVlp4obe16xYrFYl+XYaOws1YGTJyfY69Y8TBEMueIicXFHjdw3A57I9FIWE+ULc8ThPjaJ6df5G8Dc94K8LAVZ+QF+r3LHvQAAAA==[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.branch.OrganizationFolder_-State plugin="branch-api@2.4.0">
+  <actions>
+    <entry>
+      <string>org.jenkinsci.plugins.github_branch_source.GitHubSCMNavigator::https://api.github.com::zraval85</string>
+      <list>
+        <jenkins.scm.api.metadata.ObjectMetadataAction plugin="scm-api@2.4.1">
+          <objectDisplayName>Rafael</objectDisplayName>
+          <objectUrl>https://github.com/zraval85</objectUrl>
+        </jenkins.scm.api.metadata.ObjectMetadataAction>
+        <org.jenkinsci.plugins.github__branch__source.GitHubOrgMetadataAction plugin="github-branch-source@2.4.5">
+          <avatar>https://avatars1.githubusercontent.com/u/43910865?v=4</avatar>
+        </org.jenkinsci.plugins.github__branch__source.GitHubOrgMetadataAction>
+        <org.jenkinsci.plugins.github__branch__source.GitHubLink plugin="github-branch-source@2.4.5">
+          <iconClassName>icon-github-logo</iconClassName>
+          <url>https://github.com/zraval85</url>
+        </org.jenkinsci.plugins.github__branch__source.GitHubLink>
+      </list>
+    </entry>
+  </actions>
+</jenkins.branch.OrganizationFolder_-State>
